@@ -2,7 +2,7 @@
 module.exports = each;
 
 /**
- * Parralel forEach for generators.
+ * Parallel forEach for generators.
  *
  * @param {Array} arr
  * @param {Function} fn
